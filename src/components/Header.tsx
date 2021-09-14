@@ -7,11 +7,9 @@ export default function Header (){
 
         <Flex 
           as="header"
-          w="100%"
-          h={["50", "100"]}
-          px="6"
           align="center"
           justify="center"
+          h={["50", "100"]}
         >
             <IconButton
               aria-label="Return button"
@@ -27,6 +25,7 @@ export default function Header (){
               w={["5.063rem", "11.5rem"]} 
               src="/Logo.svg" 
               alt="World Trip Logo"
+              my={["4", "7"]}
             />
 
         </Flex>
