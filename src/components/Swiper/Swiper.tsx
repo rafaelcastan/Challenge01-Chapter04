@@ -39,11 +39,11 @@ export const BannerAds = () => {
       </SwiperSlide>
 
       <SwiperSlide>
-        <Slide title="Ámerica do Norte" subtitle="O continente dos sonhadores" imageUrl="/AmericaDoNorte.jpg" />
+        <Slide title="América do Norte" subtitle="O continente dos sonhadores" imageUrl="/AmericaDoNorte.jpg" />
       </SwiperSlide>
 
       <SwiperSlide>
-        <Slide title="Ámerica do Sul" subtitle="O continente da diversidade" imageUrl="/AmericaDoSul.jpg" />
+        <Slide title="América do Sul" subtitle="O continente da diversidade" imageUrl="/AmericaDoSul.jpg" />
       </SwiperSlide>
 
       <SwiperSlide>
