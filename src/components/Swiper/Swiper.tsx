@@ -9,8 +9,6 @@ import "swiper/css/a11y";
 import "swiper/css";
 
 
-
-
 export const BannerAds = () => {
 
 

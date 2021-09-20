@@ -77,7 +77,7 @@ const Home: NextPage = () => {
   
 
         <Flex 
-        fontSize={["20px", "30px", "36px"]}
+        fontSize={["1.25rem", "1.875rem", "2.25rem"]}
         alignSelf="center"
         justify="center"
         >
