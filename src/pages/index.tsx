@@ -10,8 +10,6 @@ const Home: NextPage = () => {
     lg:true,
   })
 
-
-
   return (
 
       <Flex
@@ -80,6 +78,7 @@ const Home: NextPage = () => {
         fontSize={["1.25rem", "1.875rem", "2.25rem"]}
         alignSelf="center"
         justify="center"
+        color="gray.600"
         >
           <Text textAlign="center">
             Vamos nessa? 

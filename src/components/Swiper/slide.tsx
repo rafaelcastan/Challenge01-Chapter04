@@ -35,7 +35,7 @@ export const Slide = ({title, subtitle, imageUrl}:SlideProps) => {
               spacing="5"
             >
               <Heading fontSize={["24px", "48px"]}>{title}</Heading>
-              <Text fontSize={["14px", "24px"]}>{subtitle}</Text>
+              <Text fontSize={["14px", "24px"]} color="gray.200">{subtitle}</Text>
             </VStack>   
 
         </Flex>

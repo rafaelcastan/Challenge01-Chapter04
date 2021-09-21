@@ -12,6 +12,17 @@ export const theme = extendTheme ({
     },
     fonts:{
         heading:"Poppins",
-        body: "Poppins"
+        body: "Poppins",
     },
+    colors: {
+        yellow:{
+            400:"#FFBA08"
+        },
+        gray:{
+            200:"#DADADA",
+            300:"#999999",
+            700:"#47585B"
+        }
+    }
+        
 })
