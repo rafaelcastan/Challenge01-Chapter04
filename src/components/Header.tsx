@@ -7,8 +7,6 @@ export default function Header (){
 
   const router = useRouter()
 
-  console.log(router.asPath!== "/")
-
     return(
 
         <Flex 
